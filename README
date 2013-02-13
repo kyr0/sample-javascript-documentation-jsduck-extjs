@@ -1,0 +1,9 @@
+Requirements:
+- Ruby 1.9 see https://github.com/senchalabs/jsduck
+sudo gem install jsduck
+
+After generating:
+- See output/index.html
+
+After FULL generating (including whole Ext JS documentation bundled with own project code):
+- See output/full/index.html
